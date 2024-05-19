@@ -3,6 +3,7 @@
 * @author       Kashish Bansal
 * @date         16/04/2024
 * @description  This class is for fetching all the Case hierarchies
+* @contributor  Kashish Bansal
 */
 public with sharing class CaseHierarchiesController {
 
